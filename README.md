@@ -1,4 +1,4 @@
-# c-cli-ugly-num-functional-prog
+# clang-cli-ugly-num-functional-prog
 
 ## Description
 Divide the number by greatest divisible powers of
